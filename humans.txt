@@ -3,6 +3,7 @@
     Site: https://danieljpost.solutions
     and: https://danieljpost.pro
     and: https://danieljpost.consulting
+    sometimes: https://danieljpost.dev
 
 
 /* SITE */
